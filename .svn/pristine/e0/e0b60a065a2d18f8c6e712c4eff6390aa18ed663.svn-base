@@ -1,0 +1,9 @@
+package ca.ubc.cs.cpsc210.quiz.model;
+
+/**
+ * Represents a restaurant having a street address, geographical area, postal code, name, id categories
+ * and list of reviews.
+ */
+public class Restaurant {
+
+}

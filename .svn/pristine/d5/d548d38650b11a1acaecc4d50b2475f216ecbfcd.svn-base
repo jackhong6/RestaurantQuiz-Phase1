@@ -1,0 +1,8 @@
+package ca.ubc.cs.cpsc210.quiz.model;
+
+/**
+ * Represents a geographical area.
+ */
+public interface GeoArea {
+
+}

@@ -1,0 +1,8 @@
+package ca.ubc.cs.cpsc210.quiz.model;
+
+/**
+ * Represents a name having a name, province/state code and country code
+ */
+public class City {
+
+}

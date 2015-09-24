@@ -1,0 +1,8 @@
+package ca.ubc.cs.cpsc210.quiz.model;
+
+/**
+ * Represents a leg that has an arbitrary number of points and a distance.  Part of a route.
+ */
+public class Leg {
+
+}

@@ -1,0 +1,8 @@
+package ca.ubc.cs.cpsc210.quiz.model;
+
+/**
+ * Represents a route having a list of legs and a distance.
+ */
+public class Route {
+
+}

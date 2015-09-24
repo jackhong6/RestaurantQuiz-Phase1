@@ -1,0 +1,9 @@
+package ca.ubc.cs.cpsc210.quiz.model;
+
+/**
+ * Stand-in for com.google.android.gms.maps.model.LatLng
+ * Represents a position specified with latitude/longitude coords
+ */
+public class LatLng {
+
+}

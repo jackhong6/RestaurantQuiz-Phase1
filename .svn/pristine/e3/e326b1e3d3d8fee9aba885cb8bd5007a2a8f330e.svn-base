@@ -1,0 +1,9 @@
+package ca.ubc.cs.cpsc210.quiz.google;
+
+/**
+ * Parser for response from Google Directions API.
+ */
+public class GoogleDirectionsParser {
+
+
+}
